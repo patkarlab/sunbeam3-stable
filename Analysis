@@ -1,0 +1,14 @@
+NTC_S1,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/NTC_S1_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/NTC_S1_R2_001.fastq.gz
+CV34389_Control_S2,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV34389_Control_S2_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV34389_Control_S2_R2_001.fastq.gz
+CV34389_EP1_S3,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV34389_EP1_S3_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV34389_EP1_S3_R2_001.fastq.gz
+CV34389_EP2_S4,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV34389_EP2_S4_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV34389_EP2_S4_R2_001.fastq.gz
+CV21900_EP1_S5,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV21900_EP1_S5_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV21900_EP1_S5_R2_001.fastq.gz
+CV21900_EP2_S6,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV21900_EP2_S6_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV21900_EP2_S6_R2_001.fastq.gz
+CV25660_EP1_S7,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV25660_EP1_S7_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV25660_EP1_S7_R2_001.fastq.gz
+CV23878_EP1_S8,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV23878_EP1_S8_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV23878_EP1_S8_R2_001.fastq.gz
+CV25084_EP1_S9,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV25084_EP1_S9_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV25084_EP1_S9_R2_001.fastq.gz
+CV25084_EP2_S10,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV25084_EP2_S10_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV25084_EP2_S10_R2_001.fastq.gz
+CV24933_EP1_S11,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV24933_EP1_S11_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV24933_EP1_S11_R2_001.fastq.gz
+CV25385_EP1_S12,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV25385_EP1_S12_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CV25385_EP1_S12_R2_001.fastq.gz
+CS25549_EP1_S13,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CS25549_EP1_S13_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CS25549_EP1_S13_R2_001.fastq.gz
+CR40997_EP1_S14,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CR40997_EP1_S14_R1_001.fastq.gz,/home/diagnostics/pipelines/sunbeam3-stable/sequences_23Nov22/CR40997_EP1_S14_R2_001.fastq.gz
